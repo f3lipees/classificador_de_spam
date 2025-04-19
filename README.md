@@ -31,7 +31,7 @@ cd classificador_de_spam
 
 - Feito isso, execute o script principal para treinar o modelo e realizar classificações:
 
-     python classificador.py
+                 python classificador.py
 
 
 
