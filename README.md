@@ -33,6 +33,11 @@ cd classificador_de_spam
 
                  python classificador.py
 
+# Em breve
 
+- [ ] Painel de monitoramento de performance do modelo em tempo real
+- [ ] Avaliação de drift para detectar mudanças  nos padrões de spam
 
+# PS
 Este projeto foi inspirado em [ferramenta](https://github.com/NisaarAgharia/SMS-Spam-Classification)
+
